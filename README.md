@@ -96,20 +96,15 @@ Being explicit about these is part of the contribution:
 > *Update this section to match your actual repository.*
 
 ```
-├── data/                 # Instructions for obtaining the dataset (not redistributed)
-├── notebooks/            # Exploration, training and evaluation notebooks
-├── src/                  # Preprocessing, classifier, SHAP extraction, generation, evaluation
-├── prompts/              # The three prompt templates (technical, simple, narrative)
-├── results/              # Evaluation scores, statistical test outputs, figures
-├── docs/                 # Dissertation (PDF)
-├── requirements.txt
-└── README.md
+├── phishing_project copy                 # Code, notebooks and outputs for the full pipeline
+├── Okoroh_Msc_Dissertation_2026            # Full dissertation
+├── README.md                 
 ```
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/iamdavejnr/<repo-name>.git
 cd <repo-name>
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
@@ -145,7 +140,7 @@ Northumbria University.
 
 **David Junior Okoroh**
 MSc Cybersecurity Technology, Northumbria University
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email)
+[LinkedIn](linkedin.com/in/davidjuniorokoroh) · [Email](okoroh36@gmail.com)
 
 ## Licence
 
