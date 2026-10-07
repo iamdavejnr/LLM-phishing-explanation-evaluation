@@ -140,7 +140,7 @@ Northumbria University.
 
 **David Junior Okoroh**
 MSc Cybersecurity Technology, Northumbria University
-[LinkedIn](linkedin.com/in/davidjuniorokoroh) · [Email](mailto : okoroh36@gmail.com)
+[LinkedIn]([linkedin.com/in/davidjuniorokoroh](https://www.linkedin.com/in/davidjuniorokoroh/?skipRedirect=true&contentTrackingId=OKsQvGj2QemwlFWN9pMaSw%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product)) · [Email](mailto : okoroh36@gmail.com)
 
 ## Licence
 
